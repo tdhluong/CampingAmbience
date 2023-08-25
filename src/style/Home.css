@@ -1,0 +1,98 @@
+
+/* Main */
+.Home {
+  padding: 50px;
+  align-content: center;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.top header {
+  color: #1ca03d;
+  font-size: 38px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  display: inline-block;
+  font-weight: bolder;
+}
+
+.leftTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+/* info */
+.info-text {
+  text-align: left;
+  margin-top: -30px;
+}
+
+.info-text a:visited {
+  color: rgb(11, 133, 7);
+}
+
+.info-icon {
+  width: 25px;
+  margin-left: 10px;
+}
+
+.info-icon:hover {
+  cursor: pointer;
+}
+
+
+/* Slider */
+.sliderTitle {
+  font-weight: bolder;
+  font-size: 23px;
+}
+
+.volume-control {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 21%);
+  justify-content: center;
+}
+
+.volume-control .slider {
+  color: #13630a;
+  width: 200px;
+}
+
+select {
+  font-size: 23px;
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bolder;
+  border: none;
+  color: var(--font-color);
+  background-color: var(--background-color);
+;
+}
+
+/*Sound*/
+.sound-icon {
+  width: 30px;
+}
+
+.sound-icon:hover {
+  cursor: pointer;
+  background-repeat: no-repeat;
+}
+
+/* Dark Mode */
+.dark {
+  background-color: rgb(15, 15, 15);
+  color: #77c511;
+}
+.light {
+  background-color: #bacf9f;
+  color:  rgb(15, 15, 15);
+}
