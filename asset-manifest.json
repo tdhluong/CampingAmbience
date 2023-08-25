@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tdhluong.github.io/static/css/main.73407744.css",
-    "main.js": "/tdhluong.github.io/static/js/main.e83a65b1.js",
-    "static/js/787.b10f32fa.chunk.js": "/tdhluong.github.io/static/js/787.b10f32fa.chunk.js",
-    "static/media/music.mp3": "/tdhluong.github.io/static/media/music.eef4357403cc224dff9f.mp3",
-    "static/media/crickets.wav": "/tdhluong.github.io/static/media/crickets.2da1281e480dfc238fe6.wav",
-    "static/media/daytime.mp4": "/tdhluong.github.io/static/media/daytime.5a3ca0eafc660e7f198f.mp4",
-    "static/media/birds.mp3": "/tdhluong.github.io/static/media/birds.e2c701deba5211efb52e.mp3",
-    "static/media/water.mp3": "/tdhluong.github.io/static/media/water.93463a479ceaf157c160.mp3",
-    "static/media/night.mp4": "/tdhluong.github.io/static/media/night.9cd63817bc5a1e7fb404.mp4",
-    "static/media/campfire.mp3": "/tdhluong.github.io/static/media/campfire.0e222494a04d7acb5680.mp3",
-    "static/media/information-icon.png": "/tdhluong.github.io/static/media/information-icon.8debe6dda2e743019980.png",
-    "index.html": "/tdhluong.github.io/index.html",
-    "main.73407744.css.map": "/tdhluong.github.io/static/css/main.73407744.css.map",
-    "main.e83a65b1.js.map": "/tdhluong.github.io/static/js/main.e83a65b1.js.map",
-    "787.b10f32fa.chunk.js.map": "/tdhluong.github.io/static/js/787.b10f32fa.chunk.js.map"
+    "main.css": "/camping-ambience/static/css/main.73407744.css",
+    "main.js": "/camping-ambience/static/js/main.f1e4c2f9.js",
+    "static/js/787.b10f32fa.chunk.js": "/camping-ambience/static/js/787.b10f32fa.chunk.js",
+    "static/media/music.mp3": "/camping-ambience/static/media/music.eef4357403cc224dff9f.mp3",
+    "static/media/crickets.wav": "/camping-ambience/static/media/crickets.2da1281e480dfc238fe6.wav",
+    "static/media/daytime.mp4": "/camping-ambience/static/media/daytime.5a3ca0eafc660e7f198f.mp4",
+    "static/media/birds.mp3": "/camping-ambience/static/media/birds.e2c701deba5211efb52e.mp3",
+    "static/media/water.mp3": "/camping-ambience/static/media/water.93463a479ceaf157c160.mp3",
+    "static/media/night.mp4": "/camping-ambience/static/media/night.9cd63817bc5a1e7fb404.mp4",
+    "static/media/campfire.mp3": "/camping-ambience/static/media/campfire.0e222494a04d7acb5680.mp3",
+    "static/media/information-icon.png": "/camping-ambience/static/media/information-icon.8debe6dda2e743019980.png",
+    "index.html": "/camping-ambience/index.html",
+    "main.73407744.css.map": "/camping-ambience/static/css/main.73407744.css.map",
+    "main.f1e4c2f9.js.map": "/camping-ambience/static/js/main.f1e4c2f9.js.map",
+    "787.b10f32fa.chunk.js.map": "/camping-ambience/static/js/787.b10f32fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73407744.css",
-    "static/js/main.e83a65b1.js"
+    "static/js/main.f1e4c2f9.js"
   ]
 }
